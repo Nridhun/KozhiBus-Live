@@ -17,4 +17,7 @@ frontend/dist/
 
 # OS
 .DS_Store
-Thumbs.dbModels/live_delay_model.pkl
+Thumbs.db
+
+# Machine Learning Models
+Models/*.pkl
